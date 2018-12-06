@@ -4,6 +4,9 @@ body{
 		padding:0 .62em;
 		font:1.2em/1.62 sans-serif;
 }
+body * {
+    float: left; /* So that margins of inside elements don't fuck up the body */
+}
 h1,h2,h3 {
 		line-height:1.2;
 }
