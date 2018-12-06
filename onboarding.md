@@ -17,7 +17,7 @@ Matrix is a free, open source chat system. You can use it to send messages, emoj
 ## Why are you all on Matrix?
 Giuseppe and I have made a resolution to move all of our communications to Matrix, and to use Facebook Messenger or WeChat as little as possible. Why? Because of the following reasons:
 
-* **Matrix keeps your private conversations private**. Facebook, Google, Microsoft, and other large companies frequently monetize your personal information, in order to make money. Ever noticed how advertisements in Facebook Messenger would change depending on what you are talking about? That’s creepy, and it happens because Facebook is “mining” your personal correspondence, and selling it to advertisers. The same is done by many large companies which offer a “free” service.
+* **Matrix keeps your private conversations private**. Facebook, Google, Microsoft, and other large companies frequently exploit your personal information in order to make money. Ever noticed how advertisements in Facebook Messenger would change depending on what you are talking about? That’s creepy, and it happens because Facebook is “mining” your personal correspondence, and selling it to advertisers. The same is done by many large companies which offer a “free” service.
 
 ![Facebook Datamining](./media/fb-datamining.png){width=80%}
 
