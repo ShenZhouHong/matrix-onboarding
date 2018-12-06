@@ -6,6 +6,8 @@ output:
     includes:
       in_header: preamble.tex
 papersize: a4
+linespacing: 1.5
+fontsize: 12pt
 ...
 Hi there! I’m Shen, and I co-authored this letter with Giuseppe, to help you join us on Matrix.
 
