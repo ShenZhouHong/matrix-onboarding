@@ -10,4 +10,4 @@ clean:
 	pandoc --pdf-engine=xelatex --include-in-header=preamble.tex $< --output $@
 
 %.html: %.md preamble.tex $(MEDIA)
-	pandoc --standalone -c style.css $< --output $@
+	pandoc --standalone --section-divs -c style.css $< --output $@
