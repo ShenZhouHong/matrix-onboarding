@@ -1,5 +1,12 @@
-# Come join us on Matrix!
-
+---
+title: "Join us on Matrix!"
+output:
+  rmarkdown::pdf_document:
+    fig_caption: no
+    includes:
+      in_header: preamble.tex
+papersize: a4
+...
 Hi there! I’m Shen, and I co-authored this letter with Giuseppe, to help you join us on Matrix.
 
 ## What is Matrix?
