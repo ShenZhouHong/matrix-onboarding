@@ -18,6 +18,8 @@ Giuseppe and I have made a resolution to move all of our communications to Matri
 
 * **Matrix has HD quality video-calls**. When you Video call someone on Skype or Facebook Messenger, your call is routed through networks that handles hundreds of thousands of calls in every given moment. *Because bandwidth (data) is limited (and expensive!), companies will not give you the best quality possible.* Giuseppe and I host our own Matrix servers, which only have dozens of users. This means, when you make a video call on Matrix, you will always get the best possible quality.
 
+![Comparison between Matrix videocall quality, and that of Facebook Messanger](./media/comparison.png)
+
 * **Matrix uses state-of-the-art encryption**. If you enable encryption in your Matrix chats (which is only a single button click), *nobody except the recipient of your messages can read your messages*. Not even the owners of your Matrix server! If you send someone a message on Facebook Messenger, Facebook can (and will) read your messages (in order to display advertisements). But an encrypted Matrix chat session means nobody else can eavesdrop.
 
 ![Encryption information](./media/encryption-info.png)
